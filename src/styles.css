@@ -1,0 +1,86 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #f7f7f7;
+}
+h2 {
+  font-size: 35px;
+  font-weight: 600;
+}
+p {
+  margin: 0;
+}
+.color {
+  margin: 40px 0 15px 0;
+}
+.min-title {
+  font-weight: 600;
+}
+.underline {
+  text-decoration: underline;
+  margin-left: 20px;
+}
+.tag {
+  background-color: rgb(252, 230, 216);
+  font-weight: 600;
+  padding: 10px;
+  margin: 20px 0;
+}
+.price {
+  font-size: 24px;
+  font-weight: 600;
+}
+.top-menu,
+.footer-con,
+.bar {
+  background-color: white;
+}
+.prodcut-con {
+  margin-top: 60px;
+}
+.footer-con,
+.singlepage-insta {
+  margin-top: 90px;
+}
+.space {
+  height: 100%;
+}
+.bar {
+  text-align: center;
+  margin: 90px auto;
+}
+.sim-product-list {
+  margin-top: 45px;
+}
+.share {
+  display: flex;
+  justify-content: flex-end;
+}
+.product-top-left {
+  padding-right: 50px;
+}
+.productimage {
+  background-color: #ebe7e1;
+}
+.text-center {
+  justify-content: center;
+}
+.text-center div {
+  padding: 25px 25px;
+  font-size: 14px;
+  text-decoration: underline;
+}
+.order-btn {
+  padding: 20px 90px;
+  background-color: rgba(17, 17, 17);
+  color: white;
+}
+.order-btn-con {
+  margin: 40px 0;
+}
+.productimage img {
+  width: 100%;
+}
