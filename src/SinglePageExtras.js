@@ -6,7 +6,7 @@ const SinglePageExtras = () => (
       <div className="row flex text-center">
         <div>Shipping</div>
         <div>Return &amp; Exchanges</div>
-        <div className="ab">Contact Us</div>
+        <div>Contact Us</div>
       </div>
     </div>
   </div>
